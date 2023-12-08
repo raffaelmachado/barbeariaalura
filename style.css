@@ -1,7 +1,4 @@
-body{
-    background-color: #cccccc;
-    text-align: center;
-}
+
 
 .negrito{
     font-size: 20px;
@@ -18,3 +15,11 @@ body{
     .imagemebeneficios{
         width: 50%;
     }
+    .principal{
+        background-color:#cccccc;
+    padding: 30px;}
+
+    .titulocentralizado{ text-align: center;
+
+    }
+    ul{display: inline-block;}
